@@ -1,0 +1,16 @@
+# Xcode (the project is generated from project.yml by XcodeGen)
+Roam.xcodeproj/
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+.swiftpm/
+.build/
+
+# Signing and secrets
+*.p12
+*.mobileprovision
+*.cer
+*.pem
+.secrets/
